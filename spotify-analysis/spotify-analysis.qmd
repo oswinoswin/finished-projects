@@ -4,6 +4,7 @@ format:
   html:
     code-fold: true
     code-summary: "Show the code"
+    output-file: "index.html"
 #    df-print: kable
 editor: visual
 execute: 
@@ -71,6 +72,7 @@ Spotify assigns each track a popularity score from 0 to 100, based on play count
 ## Does Language Matter?
 
 ```{r}
+library(dplyr)
 languages_list = c("English", "Hindi", "Korean", "Tamil")
 popularity_by_language <- spotify |> filter(year >= 2005 &  language %in% languages_list) |> 
      ggplot(aes(x = language, y = popularity, fill = language, colour = language)) + geom_boxplot(alpha = 0.5) + theme_minimal() + labs(title = "Popularity by language")
@@ -91,7 +93,7 @@ spotify |> filter(language %in% languages_list) |>
   ggplot(aes(x = year, y = popularity, color = language)) +  geom_smooth()  + theme_minimal() + labs(title = "Popularity by language (2005 - 2020)")
 ```
 
-Korean songs seem to be gaining popularity the fastest, with noticeable speedup around 2015. After the 2005, Korean language started to quickly gain popularity and it is still on the rise. W can see that on the popularity vs year plot - the popularity is quickly rising. This trend aligns with K-Pop’s mainstream breakthrough in 2012, when Gangnam Style became the first YouTube video to hit 1 billion views. Since then, K-Pop’s global influence has only grown.[^4]
+Korean songs seem to be gaining popularity the fastest, with noticeable speedup around 2015. After the 2005, Korean language started to quicky gain popularity and it is still on the rise. W can see that on the popularity vs year plot - the popularity is quickly rising. This trend aligns with K-Pop’s mainstream breakthrough in 2012, when Gangnam Style became the first YouTube video to hit 1 billion views. Since then, K-Pop’s global influence has only grown.[^4]
 
 [^4]: <https://www.guinnessworldrecords.com/world-records/107048-first-video-to-receive-one-billion-views>
 
