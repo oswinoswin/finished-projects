@@ -1,0 +1,886 @@
+vehicle reference,Bodywork,Color,Fuel,Gearbox,Type,Year,Mileage_km,real_power_hp_din,Door,price
+FB118600,SUV,Grey,Electric,Automatic,Second hand,2021,7268,45,5,10690
+FB118869,Urban,Orange,Gas,Manual,Second hand,2023,30451,91,5,16490
+FB118871,Urban,Grey,Hybrid,Automatic,Second hand,2023,22393,95,5,18990
+FB120521,SUV,Grey,Gas,Manual,Second hand,2024,19964,91,5,18990
+FB128840,Sedan,Blue,Gas,Manual,Second hand,2020,40152,101,5,12690
+FB120900,Urban,White,Gas,Manual,Second hand,2024,6740,91,5,16490
+FB126950,SUV,Grey,Hybrid,Automatic,Second hand,2020,75327,181,5,19990
+FB127435,Monospace,Red,Hybrid,Automatic,Second hand,2023,34278,131,5,37990
+FB128424,Monospace,Yellow,Diesel,Automatic,Second hand,2020,79737,120,5,17990
+FB128425,SUV,White,Gas,Manual,Second hand,2022,45046,91,5,15990
+FB128655,SUV,Silver,Gas,Manual,Second hand,2022,35553,91,5,15990
+FB116727,SUV,Red,Hybrid,Automatic,Second hand,2023,29009,130,5,27990
+FB129732,SUV,Grey,Gas,Automatic,Second hand,2020,43107,140,5,17690
+FB129267,Sedan,Black,Hybrid,Automatic,Second hand,2023,24321,94,5,24990
+FB128901,SUV,Blue,Hybrid,Automatic,Second hand,2024,37752,131,5,39990
+FB116772,SUV,Grey,Hybrid,Automatic,Second hand,2023,18401,131,5,36990
+FB120190,SUV,Anthracite,Hybrid,Automatic,Second hand,2019,74867,98,5,17490
+FB117473,SUV,White,LPG,Manual,Second hand,2023,44176,100,5,14490
+FB120867,Urban,Black,Gas,Manual,Second hand,2024,6152,91,5,16490
+FB122124,Utility,White,Diesel,Manual,Second hand,2023,17989,150,4,29990
+FB124470,SUV,Grey,Gas,Manual,Second hand,2023,13233,91,5,18990
+FB123181,Utility,Grey,Diesel,Manual,Second hand,2023,39059,150,4,32990
+FB124548,SUV,White,Hybrid,Automatic,Second hand,2020,69422,200,5,22990
+FB129729,Monospace,Black,Hybrid,Automatic,Second hand,2024,31394,131,5,39990
+FB128968,Sedan,Black,Gas,Manual,Second hand,2024,26357,91,5,17490
+FB128961,Sedan,Grey,Gas,Manual,Second hand,2022,28674,91,5,17490
+FB116705,Sedan,Grey,Electric,Automatic,Second hand,2023,22001,220,5,26990
+FB116729,Utility,White,Diesel,Manual,Second hand,2021,70860,140,4,19990
+FB117463,SUV,White,LPG,Manual,Second hand,2023,56219,100,5,14490
+FB127615,SUV,Grey,Gas,Manual,Second hand,2022,65678,114,5,16990
+FB118334,SUV,Blue,Hybrid,Manual,Second hand,2020,8988,83,5,11490
+FB128965,Sedan,Black,Gas,Manual,Second hand,2025,0,91,5,18490
+FB118899,Monospace,Grey,Gas,Manual,Second hand,2020,70782,140,5,15490
+FB128927,Sedan,White,Electric,Automatic,Second hand,2023,10927,136,5,23990
+FB119155,Urban,Black,Gas,Manual,Second hand,2024,6067,91,5,16490
+FB119158,Urban,White,Gas,Manual,Second hand,2024,7554,91,5,16490
+FB119411,SUV,Yellow,Diesel,Manual,Second hand,2020,60921,116,5,13490
+FB121294,Sedan,Black,Hybrid,Automatic,Second hand,2020,42079,99,5,18990
+FB122039,Urban,Orange,Hybrid,Automatic,Second hand,2023,12308,94,5,19990
+FB122403,Break,Black,Hybrid,Automatic,Second hand,2023,17275,94,5,21490
+FB118659,Monospace,White,Hybrid,Automatic,Second hand,2024,18052,131,5,36990
+FB123522,Sedan,Red,Hybrid,Automatic,Second hand,2023,12801,95,2,20290
+FB129139,SUV,Grey,Hybrid,Automatic,Second hand,2024,16884,131,5,33990
+FB124413,SUV,Grey,Gas,Automatic,Second hand,2021,85091,150,5,19990
+FB124895,Sedan,Blue,Gas,Manual,Second hand,2018,46974,90,5,9990
+FB125885,SUV,Grey,Hybrid,Automatic,Second hand,2020,48490,92,5,16990
+FB125994,Sedan,Black,Gas,Manual,Second hand,2020,61945,125,5,15990
+FB126947,Sedan,Grey,Gas,Manual,Second hand,2023,31750,91,5,14990
+FB127465,SUV,White,Hybrid,Automatic,Second hand,2024,20251,131,5,35990
+FB127479,SUV,Grey,Hybrid,Automatic,Demo,2025,9999,131,5,42001
+FB127576,SUV,Blue,Hybrid,Automatic,Second hand,2023,18860,158,5,27990
+FB127662,SUV,Grey,Hybrid,Automatic,Second hand,2024,4504,131,5,42990
+FB128115,Break,Grey,Diesel,Automatic,Second hand,2022,23819,177,5,32990
+FB127613,Coupé,Grey,Electric,Automatic,Second hand,2022,50900,498,5,29990
+FB127703,Urban,Black,Electric,Automatic,Second hand,2022,22090,58,3,16990
+FB128102,SUV,Black,Hybrid,Automatic,Second hand,2021,64607,92,5,18990
+FB128226,SUV,Anthracite,Hybrid,Automatic,Second hand,2024,17355,94,5,24990
+FB128225,Sedan,Grey,Electric,Automatic,Second hand,2020,20109,83,5,12490
+FB128279,SUV,Grey,Hybrid,Automatic,Second hand,2024,14519,145,5,31990
+FB128227,SUV,Black,Hybrid,Automatic,Second hand,2023,10747,94,5,23290
+FB128522,SUV,Grey,Gas,Automatic,Second hand,2021,55657,177,5,22990
+FB128525,Utility,Brown,Diesel,Manual,Second hand,2021,25212,107,4,19990
+FB128636,SUV,Blue,Hybrid,Automatic,Second hand,2024,17154,94,5,30990
+FB129399,SUV,White,Gas,Automatic,Second hand,2023,12686,158,5,28990
+FB129704,SUV,White,Gas,Automatic,Second hand,2019,81718,150,5,13290
+FB129499,Sedan,Grey,Gas,Manual,Second hand,2024,29054,91,5,17490
+FB129801,Sedan,Black,Gas,Manual,Second hand,2024,26967,91,5,17490
+FB129804,Sedan,Black,Gas,Automatic,Second hand,2024,18702,91,5,18490
+FB129802,Sedan,Grey,Gas,Manual,Second hand,2024,30147,91,5,17490
+FB129872,SUV,Orange,Gas,Automatic,Second hand,2020,64476,131,5,15990
+FB109326,Break,Grey,Hybrid,Automatic,New,2025,3,265,5,69990
+FB128727,SUV,Grey,Gas,Manual,Second hand,2019,87799,132,5,15990
+FB106156,Monospace,Grey,Electric,Automatic,Demo,2023,20000,204,5,51090
+FB108649,Urban,Red,Gas,Manual,Second hand,2021,59975,95,5,18990
+FB112258,SUV,Grey,Gas,Automatic,Demo,2024,3587,320,2,59990
+FB129517,Monospace,Grey,Diesel,Manual,Second hand,2022,33744,150,5,31990
+FB113826,Sedan,Silver,Gas,Automatic,Second hand,2023,13498,150,5,27990
+FB115915,Coupé,Black,Electric,Automatic,Demo,2024,181,476,4,104950
+FB116056,Break,Black,Diesel,Manual,Second hand,2020,85477,122,5,21990
+FB116057,SUV,Grey,Diesel,Automatic,Second hand,2019,93845,116,5,19990
+FB118423,SUV,Blue,Gas,Automatic,Demo,2024,6000,150,5,37390
+FB116680,Sedan,Black,Diesel,Manual,Second hand,2020,73056,116,5,20990
+FB116058,Sedan,Black,Diesel,Automatic,Second hand,2021,79712,116,5,24990
+FB117489,Sedan,Black,Diesel,Automatic,New,2025,5,150,4,45452
+FB116462,Sedan,Grey,Diesel,Automatic,Second hand,2020,90175,163,5,26990
+FB118257,Urban,Silver,Gas,Automatic,Demo,2024,11000,110,5,30590
+FB117510,Sedan,White,Gas,Automatic,Second hand,2024,2856,110,5,32990
+FB117527,Coupé,Grey,Gas,Automatic,New,2025,2,150,5,44176
+FB118343,Coupé,Anthracite,Gas,Automatic,Demo,2024,12000,110,5,28390
+FB118633,SUV,Black,Hybrid,Manual,Demo,2024,25000,150,5,53954
+FB119736,SUV,Black,Electric,Automatic,Demo,2024,18000,387,5,88990
+FB118636,SUV,Black,Diesel,Manual,Second hand,2020,84975,116,5,22990
+FB127617,Break,Grey,Electric,Automatic,Demo,2025,1500,367,5,90690
+FB127884,Sedan,Grey,Hybrid,Automatic,Demo,2025,5000,265,5,86390
+FB96874,Coupé,Blue,Electric,Automatic,Demo,2024,15110,204,5,41790
+FB113820,SUV,White,Gas,Automatic,Second hand,2023,9181,150,5,27990
+FB115803,SUV,Champagne,Gas,Automatic,Demo,2024,25000,150,5,47250
+FB114246,SUV,Grey,Gas,Automatic,Second hand,2021,45951,150,5,24490
+FB115893,SUV,Grey,Gas,Automatic,Demo,2024,20000,150,5,39590
+FB116662,Break,Silver,Diesel,Automatic,Second hand,2022,68188,116,5,22990
+FB117034,SUV,Anthracite,Gas,Automatic,Second hand,2022,45324,110,5,23990
+FB110534,SUV,Blue,Gas,Manual,Second hand,2021,61403,110,5,18490
+FB96233,SUV,Black,Electric,Automatic,Demo,2023,41000,174,5,37290
+FB114219,Utility,White,Diesel,Manual,Second hand,2020,91526,75,4,15490
+FB125906,Utility,White,Diesel,Manual,Second hand,2023,22504,102,5,21990
+FB125981,Break,Grey,Electric,Automatic,Demo,2025,9900,367,5,74890
+FB126314,Break,Grey,Gas,Automatic,New,2025,22,630,5,182000
+FB126536,Break,Black,Gas,Automatic,Second hand,2024,16912,150,5,39990
+FB126704,SUV,Blue,Gas,Manual,Second hand,2023,62851,110,5,19490
+FB126616,SUV,Grey,Gas,Automatic,Second hand,2019,111672,116,5,19990
+FB127107,SUV,Grey,Diesel,Automatic,New,2025,14,204,5,84370
+FB128081,Urban,Black,Gas,Manual,Second hand,2022,7910,95,5,20990
+FB128735,SUV,Black,Diesel,Automatic,Demo,2025,15000,204,5,74900
+FB128068,Break,Black,Diesel,Automatic,Second hand,2022,46567,163,5,37990
+FB128066,SUV,Blue,Gas,Manual,Second hand,2022,64140,110,5,20990
+FB128069,SUV,Grey,Gas,Automatic,Second hand,2020,81913,110,5,15990
+FB128078,SUV,White,Diesel,Automatic,Second hand,2020,64246,115,5,22490
+FB108854,SUV,Black,Electric,Automatic,New,2025,9,286,5,65885
+FB111601,SUV,Blue,Electric,Automatic,New,2025,9,306,5,74420
+FB92950,Urban,White,Electric,Automatic,Demo,2023,30000,300,5,45900
+FB111879,Break,Bronze,Gas,Automatic,Second hand,2020,48079,125,5,18790
+FB113807,Urban,Red,Gas,Automatic,Second hand,2023,9499,95,5,24990
+FB114866,SUV,Grey,Electric,Automatic,New,2025,7,286,5,62799
+FB115340,Utility,White,Diesel,Manual,Second hand,2021,64032,110,5,26990
+FB96691,SUV,Grey,Electric,Automatic,Demo,2023,19800,408,5,67990
+FB115335,SUV,Black,Electric,Automatic,New,2025,9,286,5,66420
+FB109747,Urban,Black,Gas,Automatic,New,2025,9,110,5,37172
+FB108293,Coupé,Grey,Gas,Automatic,New,2025,9,150,5,44130
+FB116681,Break,Blue,Diesel,Automatic,Second hand,2020,79085,163,5,33990
+FB116874,SUV,Grey,Gas,Automatic,New,2025,9,116,5,29720
+FB116856,Urban,Blue,Gas,Automatic,Second hand,2017,93500,192,3,17990
+FB116875,SUV,Anthracite,Gas,Automatic,New,2025,9,116,5,31034
+FB117162,Sedan,Grey,Diesel,Automatic,Second hand,2021,88908,163,5,30990
+FB117240,Coupé,Black,Gas,Automatic,New,2025,6,400,5,86760
+FB117515,Urban,Blue,Gas,Automatic,Second hand,2024,3029,110,5,26990
+FB117439,Break,Blue,Gas,Automatic,New,2025,10,150,5,48026
+FB118220,Break,White,Electric,Automatic,Demo,2024,20000,286,5,55490
+FB117452,Break,Black,Gas,Automatic,New,2025,10,116,5,32490
+FB123486,SUV,Grey,Gas,Automatic,Second hand,2018,116654,150,5,19990
+FB118219,Sedan,White,Gas,Automatic,Demo,2024,15000,150,5,31990
+FB126098,SUV,Grey,Electric,Automatic,Demo,2025,10000,285,5,45390
+FB127402,Urban,Silver,Gas,Manual,Second hand,2024,5612,95,5,24990
+FB128137,Urban,White,Gas,Manual,Second hand,2024,6074,95,5,19990
+FB103641,Coupé,Grey,Electric,Automatic,New,2025,9,285,5,59190
+FB98666,Urban,Grey,Gas,Manual,Second hand,2016,82051,75,5,9290
+FB125193,Coupé,Grey,Diesel,Automatic,Second hand,2022,87240,150,5,29990
+FB104481,Sedan,Grey,Diesel,Manual,Second hand,2021,93233,115,5,20490
+FB128084,Urban,Grey,Diesel,Automatic,Second hand,2020,112560,115,5,14990
+FB128085,Urban,Blue,Gas,Manual,Second hand,2020,51681,95,5,13990
+FB129674,Utility,White,Diesel,Automatic,New,2025,9,150,4,53401
+FB129679,Cabriolet,Anthracite,Gas,Manual,New,2025,9,116,2,37705
+FB129629,SUV,Anthracite,Diesel,Automatic,New,2025,9,150,5,60535
+FB118962,Coupé,Black,Gas,Automatic,Second hand,2017,63193,420,2,99991
+FB125525,Cabriolet,Blue,Gas,Automatic,Second hand,2024,16500,400,2,96195
+FB121655,SUV,Black,Gas,Automatic,Second hand,2020,63500,354,5,57990
+FB125529,Coupé,Green,Gas,Automatic,Second hand,2023,9500,500,2,175450
+FB100749,Urban,Blue,Gas,Automatic,Second hand,2021,72482,110,5,20990
+FB104113,Urban,Grey,Gas,Automatic,Second hand,2023,13598,110,5,23990
+FB118613,Sedan,Grey,Gas,Automatic,New,2025,9,150,5,59050
+FB87139,SUV,Grey,Electric,Automatic,Demo,2023,22194,407,5,89900
+FB120242,SUV,Black,Diesel,Automatic,Second hand,2020,76794,258,4,36490
+FB121143,Urban,Red,Hybrid,Automatic,Second hand,2022,16995,92,5,19490
+FB121226,SUV,Grey,Gas,Automatic,Second hand,2020,117254,102,5,16990
+FB121323,SUV,Red,Gas,Automatic,Second hand,2023,51455,159,5,27990
+FB121327,SUV,White,Gas,Automatic,Second hand,2024,32017,150,5,31490
+FB121384,SUV,Grey,Diesel,Manual,Second hand,2022,65631,131,5,25990
+FB121473,Sedan,Black,Gas,Manual,Second hand,2024,4802,110,5,23990
+FB121866,SUV,Grey,Gas,Automatic,New,2025,10,150,5,59890
+FB122849,SUV,Grey,Gas,Manual,Second hand,2018,77215,116,5,13490
+FB124849,SUV,Grey,Gas,Manual,Second hand,2024,27776,115,5,22990
+FB128938,SUV,Anthracite,Gas,Manual,Second hand,2023,45754,110,5,18990
+FB128911,SUV,Grey,Electric,Automatic,New,2025,4,285,5,48979
+FB128903,SUV,Blue,Electric,Automatic,New,2025,4,285,5,68339
+FB110377,Break,Black,Diesel,Automatic,Second hand,2021,84078,163,5,24990
+FB128900,Coupé,Grey,Electric,Automatic,New,2025,4,286,5,70540
+FB109436,SUV,Black,Gas,Automatic,Second hand,2021,60824,507,5,76990
+FB109780,Monospace,Grey,Electric,Automatic,Demo,2024,15000,204,5,43990
+FB111220,SUV,White,Gas,Automatic,Second hand,2022,57360,150,5,26990
+FB111765,Sedan,Black,Gas,Manual,Second hand,2023,10847,110,5,22990
+FB110200,Cabriolet,Red,Gas,Automatic,Second hand,2020,77797,150,2,24990
+FB112018,SUV,Black,Gas,Automatic,Second hand,2022,47709,150,5,30990
+FB113825,Sedan,Blue,Gas,Automatic,Second hand,2023,11633,150,5,27990
+FB114991,SUV,Grey,Gas,Automatic,Second hand,2021,60649,110,5,17990
+FB115368,SUV,Grey,Gas,Automatic,Second hand,2024,50,150,5,35990
+FB112440,Urban,Black,Gas,Automatic,New,2025,19,110,5,37375
+FB115266,Break,Grey,Gas,Automatic,New,2025,20,630,5,189975
+FB113116,SUV,Grey,Electric,Automatic,Demo,2024,5073,387,5,79490
+FB115229,SUV,Silver,Hybrid,Automatic,New,2025,14,340,5,138955
+FB90668,Sedan,White,Electric,Automatic,Demo,2024,33900,204,5,38990
+FB111196,Break,Grey,Gas,Automatic,Demo,2024,15000,150,5,42490
+FB111195,SUV,Grey,Gas,Automatic,Demo,2024,15000,150,5,43490
+FB111445,Break,White,Diesel,Automatic,New,2025,4,150,5,44951
+FB129045,SUV,Silver,Diesel,Automatic,New,2025,10,150,5,57365
+FB118975,Urban,Anthracite,Gas,Automatic,New,2025,7,116,5,22758
+FB92757,SUV,White,Hybrid,Automatic,Demo,2023,47500,150,5,38990
+FB118740,SUV,Grey,Gas,Automatic,Second hand,2019,110163,136,4,18490
+FB114494,Sedan,White,Gas,Manual,Second hand,2020,85443,72,5,11990
+FB80194,SUV,Grey,Diesel,Automatic,Second hand,2018,73312,240,5,25990
+FB110062,Sedan,Black,Gas,Manual,Second hand,2018,92983,116,5,14990
+FB127794,SUV,Blue,Diesel,Automatic,Demo,2025,13000,204,5,69900
+FB96743,SUV,White,Diesel,Automatic,Demo,2023,32118,150,5,38900
+FB112225,Coupé,Grey,Electric,Automatic,New,2025,15,591,5,156900
+FB112392,SUV,Black,Electric,Automatic,New,2025,9,286,5,66600
+FB113262,SUV,Silver,Gas,Automatic,Second hand,2022,45700,150,5,25990
+FB112403,SUV,Grey,Electric,Automatic,New,2025,9,286,5,64480
+FB129060,SUV,Black,Diesel,Automatic,New,2025,9,150,5,47070
+FB128937,Sedan,Blue,Gas,Automatic,Second hand,2024,16599,150,5,35990
+FB107162,Coupé,Silver,Diesel,Automatic,Demo,2024,9149,163,5,48900
+FB96578,Coupé,Grey,Electric,Automatic,Demo,2023,22954,476,4,99500
+FB107169,SUV,Black,Electric,Automatic,Demo,2024,15000,408,5,97900
+FB105527,Break,Grey,Gas,Automatic,Second hand,2021,66563,600,5,88990
+FB107173,Break,Blue,Hybrid,Automatic,New,2025,15,265,5,74950
+FB111042,SUV,Grey,Electric,Automatic,Demo,2025,15000,286,5,58900
+FB111367,SUV,Black,Electric,Automatic,New,2025,10,387,5,103600
+FB123498,Monospace,Black,Gas,Automatic,New,2025,10,150,5,44690
+FB125089,Urban,Anthracite,Gas,Manual,Second hand,2019,61450,99,4,12990
+FB125686,SUV,Grey,Diesel,Automatic,Second hand,2023,27000,150,5,35630
+FB125898,Sedan,Silver,Gas,Manual,Second hand,2021,41695,110,5,19990
+FB125931,Break,Grey,Diesel,Automatic,Second hand,2023,40500,136,5,36990
+FB126222,SUV,Grey,Gas,Manual,Second hand,2019,103819,150,5,15250
+FB126241,Sedan,Black,Diesel,Automatic,Second hand,2021,109647,116,5,23490
+FB128107,Break,Black,Gas,Automatic,New,2025,9,150,5,64301
+FB128672,Break,Grey,Diesel,Automatic,New,2025,9,163,5,75020
+FB128646,Urban,Grey,Gas,Automatic,New,2025,9,116,5,34900
+FB128818,SUV,Blue,Electric,Automatic,New,2025,9,286,5,79805
+FB129542,SUV,Grey,Diesel,Automatic,Second hand,2023,44277,150,5,33990
+FB104695,Sedan,Blue,Electric,Automatic,New,2025,10,286,5,57890
+FB99235,Break,Grey,Gas,Automatic,Second hand,2021,50778,110,5,23490
+FB100636,Urban,White,Electric,Automatic,Demo,2023,25596,231,5,40990
+FB101003,Break,Anthracite,Gas,Manual,Second hand,2018,87897,120,5,11990
+FB100980,Sedan,Grey,Gas,Automatic,Second hand,2020,111534,136,2,18990
+FB101651,SUV,Black,Gas,Automatic,Second hand,2022,45350,310,5,31990
+FB104757,SUV,Silver,Gas,Automatic,Demo,2024,28000,110,5,26791
+FB107835,Sedan,Grey,Gas,Manual,Second hand,2021,104118,110,5,17490
+FB129147,Cabriolet,Grey,Gas,Automatic,New,2025,10,150,2,49470
+FB108332,Coupé,Black,Electric,Automatic,Demo,2023,49990,286,5,49890
+FB90409,Utility,Yellow,Electric,Automatic,Demo,2024,15000,204,5,43890
+FB99100,Break,Blue,Diesel,Manual,Second hand,2020,95999,116,5,17990
+FB126478,SUV,Anthracite,Hybrid,Automatic,Demo,2024,29500,150,5,38290
+FB126962,Sedan,Anthracite,Diesel,Manual,Second hand,2021,87300,131,5,15250
+FB127366,Monospace,Grey,Diesel,Automatic,New,2025,10,150,5,89990
+FB127394,Sedan,Blue,Diesel,Automatic,Demo,2024,25000,150,5,32590
+FB127454,SUV,Grey,Gas,Automatic,New,2025,10,150,5,35190
+FB127486,Break,Grey,Gas,Automatic,New,2025,10,116,5,40280
+FB127667,SUV,Grey,Gas,Automatic,New,2025,7,116,5,28382
+FB127668,Break,Grey,Gas,Automatic,New,2025,7,150,5,40000
+FB127669,Sedan,Black,Electric,Automatic,New,2025,7,231,5,41515
+FB127693,SUV,White,Electric,Automatic,Demo,2025,15000,286,5,44490
+FB127674,Break,Black,Gas,Automatic,Demo,2024,15000,150,5,39990
+FB127737,Urban,Grey,Gas,Automatic,Second hand,2024,26201,95,5,21990
+FB128073,SUV,Grey,Gas,Automatic,Second hand,2024,20342,150,5,39990
+FB128103,Sedan,Grey,Gas,Manual,Second hand,2023,47096,95,5,18990
+FB128104,Sedan,Silver,Gas,Manual,Second hand,2021,75956,110,5,18490
+FB128247,Utility,White,Diesel,Automatic,Demo,2025,8000,150,3,34485
+FB128621,SUV,Black,Electric,Automatic,New,2025,10,286,5,57250
+FB129304,SUV,Grey,Gas,Manual,Second hand,2023,37930,95,5,18990
+FB120305,Urban,Black,Diesel,Manual,Second hand,2017,33042,110,5,12290
+FB119903,Sedan,Blue,Gas,Automatic,Second hand,2023,35500,150,5,37890
+FB122025,SUV,Grey,Gas,Manual,Second hand,2017,97390,150,5,16990
+FB126312,Break,Grey,Electric,Automatic,New,2025,9,367,5,113905
+FB124606,SUV,Grey,Electric,Automatic,New,2025,25,387,5,113875
+FB127403,Urban,Red,Gas,Manual,Second hand,2024,6798,95,5,24990
+FB127452,Coupé,Grey,Gas,Automatic,Second hand,2022,55531,150,5,34990
+FB127570,Break,Black,Gas,Automatic,Demo,2025,12000,367,5,87900
+FB127608,Coupé,Grey,Hybrid,Automatic,New,2025,9,150,5,68030
+FB127606,Urban,Green,Gas,Automatic,New,2025,9,116,5,39420
+FB127862,Break,Silver,Gas,Automatic,New,2025,20,630,5,194310
+FB127685,Urban,Red,Gas,Automatic,New,2025,9,95,5,35260
+FB127832,SUV,Grey,Electric,Automatic,New,2025,9,387,5,97015
+FB127958,Sedan,White,Gas,Automatic,Second hand,2023,41974,110,5,24990
+FB127955,Sedan,Grey,Gas,Automatic,Second hand,2023,29717,110,5,24990
+FB128037,Break,Black,Gas,Automatic,Demo,2025,4900,630,5,152900
+FB128077,Break,Black,Diesel,Automatic,Second hand,2022,49900,163,5,37990
+FB116088,Break,Black,Gas,Automatic,New,2025,12,630,5,168140
+FB116482,SUV,Black,Electric,Automatic,New,2025,9,286,5,77750
+FB116456,Coupé,Grey,Diesel,Automatic,Second hand,2020,118391,163,5,26990
+FB116888,Sedan,Black,Gas,Automatic,New,2025,18,204,5,62900
+FB116898,Break,Blue,Gas,Automatic,Demo,2024,15000,150,5,42900
+FB127742,SUV,Grey,Gas,Manual,Second hand,2025,10,125,5,22990
+FB127723,Urban,Black,Gas,Automatic,Second hand,2022,25260,95,5,20990
+FB127747,Break,Grey,Gas,Automatic,Second hand,2024,32667,110,5,25990
+FB127744,Break,Black,Gas,Automatic,Second hand,2024,34537,110,5,25990
+FB127750,Urban,Blue,Gas,Automatic,Second hand,2024,22412,95,5,21490
+FB127748,Urban,Black,Gas,Manual,Second hand,2019,77162,95,5,13990
+FB128640,SUV,White,Gas,Manual,New,2025,10,130,5,27636
+FB109711,Urban,Anthracite,LPG,Manual,Second hand,2021,74749,91,5,12490
+FB128963,Urban,Black,Electric,Automatic,Demo,2025,1999,150,5,30290
+FB105795,Sedan,Silver,Diesel,Automatic,Demo,2024,19999,115,5,19990
+FB129063,Monospace,Grey,Hybrid,Automatic,Demo,2025,5999,131,5,42990
+FB128967,SUV,Blue,Hybrid,Automatic,Demo,2025,999,109,5,30790
+FB105883,Utility,Grey,Electric,Automatic,Demo,2023,24990,122,5,26791
+FB105888,SUV,Grey,Gas,Manual,Demo,2023,21990,91,5,19490
+FB112945,Sedan,Grey,Electric,Automatic,Second hand,2023,8,130,5,29990
+FB109504,SUV,Anthracite,Hybrid,Automatic,Demo,2024,39900,94,5,24490
+FB113752,Urban,Grey,LPG,Manual,Second hand,2021,90613,91,5,11990
+FB119054,SUV,Black,Hybrid,Automatic,Demo,2024,14999,131,5,42390
+FB119521,Monospace,White,Electric,Automatic,Demo,2024,2499,218,5,41990
+FB122736,Break,Blue,Gas,Manual,Second hand,2021,76947,140,5,16990
+FB125378,SUV,Grey,Hybrid,Automatic,Demo,2024,14999,94,5,33990
+FB122953,Sedan,Black,Gas,Manual,Second hand,2023,31522,83,5,15990
+FB128232,SUV,Blue,Hybrid,Automatic,Demo,2025,2999,94,5,32990
+FB119309,SUV,Anthracite,Gas,Automatic,New,2025,5,150,5,35990
+FB119374,SUV,Anthracite,Gas,Automatic,New,2025,5,150,5,39990
+FB119828,SUV,Black,Gas,Automatic,New,2025,36,150,5,34990
+FB120405,SAV,Silver,Gas,Manual,Second hand,2022,50506,95,5,15990
+FB120421,Sedan,Grey,Gas,Automatic,Second hand,2022,56356,110,5,20990
+FB124844,SUV,Grey,Gas,Automatic,Second hand,2024,13131,110,5,23990
+FB121499,SUV,Green,Diesel,Automatic,Second hand,2019,62670,131,5,17990
+FB120898,Monospace,Grey,Diesel,Manual,Second hand,2022,25142,95,5,22990
+FB121859,Break,Grey,Diesel,Manual,Second hand,2020,99784,116,5,14990
+FB121861,Break,Grey,Diesel,Automatic,Second hand,2020,92076,120,5,20990
+FB122509,Urban,Black,Gas,Manual,Second hand,2022,32297,95,5,17490
+FB122738,Break,Grey,Diesel,Automatic,Second hand,2021,88216,136,5,27990
+FB122954,Sedan,Black,Gas,Manual,Second hand,2024,20403,110,5,22990
+FB122958,SUV,Blue,Gas,Manual,Second hand,2024,12339,115,5,22990
+FB123516,Urban,Grey,Gas,Manual,Second hand,2018,57821,95,5,12990
+FB124373,SUV,Black,Hybrid,Automatic,Demo,2025,15000,177,5,53990
+FB124462,SUV,Grey,Gas,Manual,Second hand,2022,52906,91,5,15490
+FB123582,SUV,Grey,Gas,Automatic,Second hand,2018,121179,150,5,19990
+FB125934,Coupé,Black,Gas,Automatic,Second hand,2022,24015,150,5,32990
+FB125925,Sedan,Blue,Diesel,Manual,Second hand,2021,41166,116,4,21990
+FB119815,Sedan,White,Diesel,Automatic,Second hand,2023,26492,136,5,31990
+FB126448,Coupé,Grey,Diesel,Manual,Second hand,2020,96674,116,5,19990
+FB126467,Coupé,Black,Gas,Manual,Second hand,2020,69554,110,5,18990
+FB126548,SUV,Blue,Gas,Manual,Second hand,2020,100229,116,5,17490
+FB126556,Urban,Grey,Gas,Manual,Second hand,2021,56884,65,5,12990
+FB127058,Monospace,Blue,Diesel,Automatic,Second hand,2018,57173,116,5,18990
+FB126862,Break,Black,Gas,Manual,Second hand,2022,41276,140,5,17490
+FB126880,SUV,Blue,Diesel,Manual,Second hand,2021,93030,131,5,18490
+FB127365,SUV,Blue,Diesel,Automatic,Second hand,2018,81487,190,4,39990
+FB127216,SUV,Red,Hybrid,Automatic,Second hand,2022,99044,94,5,18990
+FB127539,Sedan,White,Gas,Manual,Second hand,2017,78379,116,5,12490
+FB127511,Sedan,Grey,Gas,Automatic,Second hand,2025,935,136,5,32990
+FB127753,SUV,Silver,Gas,Automatic,Second hand,2025,10,125,5,24990
+FB127894,SUV,White,Hybrid,Automatic,Second hand,2024,23512,200,5,31990
+FB128156,SUV,Red,Gas,Manual,Second hand,2025,10,101,5,20990
+FB123376,Sedan,Silver,Gas,Manual,Second hand,2021,79447,110,5,19990
+FB127864,Monospace,White,Diesel,Automatic,Second hand,2021,46446,150,5,26990
+FB123396,Break,Blue,Diesel,Automatic,Second hand,2019,89934,120,5,18990
+FB123520,Urban,White,Gas,Manual,Second hand,2024,10,70,3,14990
+FB123881,Urban,Black,Gas,Manual,Second hand,2016,88340,94,5,8990
+FB123914,Sedan,Grey,Gas,Automatic,Second hand,2021,29859,109,5,23990
+FB124057,Sedan,Grey,Diesel,Manual,Second hand,2021,77684,102,5,13490
+FB105431,Monospace,Yellow,Electric,Automatic,Demo,2024,10000,204,5,53990
+FB110617,Utility,White,Diesel,Manual,Demo,2024,20000,177,4,35990
+FB107620,SUV,Blue,Electric,Automatic,Demo,2024,10000,204,5,48990
+FB112448,Urban,Grey,Gas,Manual,Demo,2024,10000,95,5,20990
+FB129562,SUV,Black,Gas,Automatic,New,2025,7,150,5,45062
+FB129468,SUV,Black,Hybrid,Automatic,New,2025,10,340,5,113990
+FB129991,SUV,Grey,Electric,Automatic,New,2025,10,286,5,55785
+FB128886,Urban,Beige,Electric,Automatic,Demo,2025,5000,65,5,18016
+FB104846,Monospace,Grey,Gas,Manual,Second hand,2021,33993,102,5,15990
+FB109257,Monospace,Grey,Gas,Manual,Second hand,2022,52400,110,5,16490
+FB109491,SUV,Blue,Gas,Automatic,Second hand,2021,88528,110,5,18490
+FB110753,Monospace,White,Electric,Automatic,Demo,2024,13000,220,5,42558
+FB113670,SUV,Blue,Hybrid,Automatic,New,2025,1,90,5,35928
+FB115377,SUV,Grey,Hybrid,Automatic,Second hand,2023,22879,131,5,32990
+FB115814,SUV,Grey,Hybrid,Automatic,Demo,2024,12500,131,5,40332
+FB116685,Sedan,White,Gas,Manual,Second hand,2019,101034,84,5,8990
+FB117471,SUV,White,LPG,Manual,Second hand,2023,51190,100,5,15490
+FB113948,SUV,Orange,Gas,Automatic,Second hand,2021,45533,140,5,23990
+FB129161,SUV,Blue,Hybrid,Automatic,Second hand,2023,31768,131,5,32990
+FB111704,SUV,White,Gas,Manual,Second hand,2021,70640,95,5,16990
+FB115050,Sedan,Black,Gas,Manual,Second hand,2022,61675,110,5,18490
+FB115936,Urban,Red,Gas,Manual,Demo,2024,10000,95,5,20490
+FB116021,Sedan,Blue,Diesel,Automatic,Second hand,2019,120171,116,5,13990
+FB116175,Utility,Black,Diesel,Manual,New,2025,5,102,3,28490
+FB116136,SUV,Grey,Diesel,Automatic,Demo,2025,10000,150,5,52990
+FB116397,SUV,Anthracite,Gas,Automatic,Demo,2024,15000,150,5,43990
+FB116198,Break,Grey,Gas,Automatic,New,2025,5,150,5,39590
+FB117100,SUV,Anthracite,Gas,Manual,New,2025,5,115,5,28090
+FB116525,Sedan,Grey,Gas,Automatic,Second hand,2024,12735,131,5,25990
+FB117103,Break,Blue,Diesel,Automatic,New,2025,5,150,5,40990
+FB118020,Sedan,Silver,Gas,Manual,Second hand,2021,36815,110,5,19490
+FB117532,Utility,White,Diesel,Manual,New,2025,5,102,3,33690
+FB119079,SUV,Silver,Gas,Manual,Second hand,2024,7633,110,5,22990
+FB119606,Sedan,White,Gas,Manual,Second hand,2023,13137,91,5,16990
+FB119827,SUV,Anthracite,Gas,Automatic,New,2025,10,150,5,34990
+FB121856,SUV,Grey,Gas,Automatic,Second hand,2020,78828,116,5,15990
+FB128140,Urban,White,Gas,Manual,Second hand,2024,15126,95,5,19990
+FB128157,SUV,Blue,Gas,Manual,Second hand,2025,10,101,5,20990
+FB128158,SUV,White,Gas,Manual,Second hand,2025,10,101,5,20990
+FB128257,Break,Silver,Gas,Automatic,Second hand,2025,10,100,5,24990
+FB105906,SUV,Black,LPG,Manual,Second hand,2022,63881,91,5,17990
+FB105648,SUV,White,LPG,Manual,Second hand,2022,32662,91,5,16990
+FB91799,Sedan,Blue,Electric,Automatic,Second hand,2023,36806,220,5,29990
+FB113621,Sedan,Blue,Electric,Automatic,Second hand,2022,32842,220,5,27990
+FB76152,Sedan,White,Electric,Automatic,New,2025,10,130,5,34590
+FB113875,Monospace,Silver,Diesel,Automatic,Second hand,2023,36011,116,5,27990
+FB114162,Urban,Anthracite,Electric,Automatic,Second hand,2023,504,82,5,15990
+FB112026,SUV,White,LPG,Manual,Second hand,2023,38950,91,5,17990
+FB128925,SUV,Blue,Gas,Manual,Demo,2023,25267,91,5,18790
+FB114607,Sedan,Grey,Gas,Automatic,Second hand,2021,59631,116,5,17990
+FB112298,Sedan,Anthracite,Gas,Automatic,New,2025,5,140,5,28490
+FB115317,Break,Grey,Hybrid,Automatic,Second hand,2020,61145,91,5,18990
+FB128849,Urban,Black,Gas,Manual,Second hand,2022,60585,80,5,13990
+FB115821,Urban,Grey,Hybrid,Automatic,Second hand,2024,7020,94,5,19990
+FB114800,SUV,Black,Gas,Manual,Second hand,2019,73000,114,5,13490
+FB111503,SUV,Grey,Hybrid,Automatic,Second hand,2023,27438,131,5,30990
+FB112416,SUV,Black,Gas,Manual,Second hand,2022,73157,125,5,16990
+FB126117,SUV,Anthracite,LPG,Manual,Second hand,2023,19511,91,5,18990
+FB116288,SUV,Anthracite,Diesel,Manual,Second hand,2020,67463,95,5,15490
+FB116453,Urban,Grey,Electric,Automatic,Second hand,2022,9581,82,5,17290
+FB116952,SUV,Red,Diesel,Manual,Second hand,2019,104491,116,5,12990
+FB117470,SUV,White,LPG,Manual,Second hand,2023,48171,100,5,15490
+FB128546,SUV,Black,Gas,Automatic,Second hand,2024,18123,150,5,34990
+FB117739,SUV,Black,Gas,Manual,Second hand,2019,86127,116,5,12490
+FB117821,Sedan,Silver,Gas,Automatic,Second hand,2021,17609,91,5,14990
+FB118666,SUV,Grey,Diesel,Manual,Second hand,2019,102387,95,5,13990
+FB115693,SUV,Blue,Gas,Manual,Second hand,2022,26662,91,5,16990
+FB115846,Sedan,Black,Gas,Manual,Second hand,2024,14396,67,5,14990
+FB116128,Break,Grey,LPG,Manual,Second hand,2022,61272,91,5,17490
+FB116993,SUV,Black,Gas,Automatic,Second hand,2024,6231,140,5,26990
+FB118588,Urban,White,Gas,Manual,Second hand,2019,99613,90,5,8990
+FB126507,SUV,Grey,Hybrid,Manual,Second hand,2023,53728,129,5,19490
+FB117619,Break,Grey,Gas,Manual,Second hand,2024,12418,110,5,20990
+FB118783,SUV,Grey,Gas,Manual,Second hand,2019,39122,99,5,14490
+FB119281,Monospace,Black,Diesel,Manual,Second hand,2023,19642,150,5,36990
+FB115818,Break,White,Gas,Manual,Second hand,2018,98484,122,5,16990
+FB116005,Sedan,Grey,Gas,Automatic,Second hand,2021,83478,110,5,20490
+FB118639,SUV,Grey,Gas,Automatic,Second hand,2020,72352,150,5,22990
+FB116289,SUV,Blue,Gas,Manual,Second hand,2020,37289,95,5,17290
+FB119046,SUV,Grey,Gas,Manual,Second hand,2022,69625,110,5,18990
+FB120138,Sedan,Grey,Gas,Manual,Second hand,2020,73022,110,5,17990
+FB118797,Break,Grey,Gas,Automatic,New,2025,10,116,5,37500
+FB121163,Urban,Blue,Gas,Manual,Second hand,2019,101340,72,5,7490
+FB122160,Cabriolet,Blue,Gas,Automatic,Second hand,2021,17737,150,2,29990
+FB123388,Urban,Silver,Gas,Manual,Second hand,2021,59065,110,5,19990
+FB124302,SUV,Grey,Gas,Automatic,New,2025,10,150,5,60500
+FB124527,SUV,Grey,Gas,Manual,Second hand,2024,10077,110,5,21490
+FB125498,SUV,Green,Gas,Manual,Second hand,2024,11597,115,5,22990
+FB126534,SUV,Grey,Diesel,Manual,Second hand,2020,81439,116,5,18990
+FB127129,SUV,Silver,Gas,Manual,Second hand,2024,10275,95,5,20990
+FB126447,Break,Black,Diesel,Manual,Second hand,2020,69679,122,5,20990
+FB127153,SUV,Bronze,Gas,Manual,Second hand,2019,58212,116,5,16290
+FB120441,Urban,White,Electric,Automatic,New,2025,10,150,5,33990
+FB120608,SUV,Blue,Hybrid,Automatic,New,2025,10,200,5,51570
+FB126340,Monospace,White,Electric,Automatic,Demo,2025,14999,218,5,44590
+FB126994,Urban,Black,Diesel,Automatic,Demo,2023,29990,116,5,20990
+FB126993,Urban,Black,Gas,Manual,Demo,2024,14990,91,5,18990
+FB94282,Monospace,White,Electric,Automatic,Demo,2024,16000,204,5,54450
+FB112668,SUV,Black,Diesel,Automatic,Demo,2024,4750,286,5,86990
+FB110126,Urban,Grey,Gas,Manual,Demo,2025,123,116,5,24990
+FB111426,SUV,Grey,Gas,Automatic,Second hand,2022,55943,150,5,26990
+FB93251,SUV,Black,Electric,Automatic,Demo,2023,31000,300,5,46990
+FB113438,SUV,Grey,Diesel,Automatic,Second hand,2020,96836,150,5,24990
+FB115007,SUV,White,Gas,Manual,Second hand,2021,60893,131,5,23990
+FB114592,SUV,Grey,Diesel,Automatic,Second hand,2020,87007,116,5,23990
+FB114587,Break,Grey,Electric,Automatic,Demo,2024,5555,286,5,64500
+FB116246,Urban,Black,Gas,Manual,Second hand,2022,74864,110,5,20990
+FB126474,Sedan,Grey,Gas,Manual,Second hand,2024,12166,110,5,24990
+FB116276,SUV,Brown,Gas,Manual,Second hand,2017,19480,116,5,11990
+FB116597,Urban,Black,Gas,Manual,New,2025,6,95,5,21458
+FB116581,Urban,White,Gas,Manual,New,2025,6,95,5,20650
+FB116611,SUV,Black,Gas,Manual,New,2025,6,95,5,23495
+FB125434,Break,Black,Diesel,Automatic,Second hand,2019,106049,136,5,26990
+FB125905,Sedan,Black,Gas,Manual,Second hand,2021,43575,110,5,19990
+FB112266,SUV,Black,Electric,Automatic,Demo,2024,14000,306,5,69990
+FB110603,Coupé,Silver,Gas,Automatic,Demo,2024,10000,110,5,33490
+FB114595,Sedan,Blue,Diesel,Automatic,Second hand,2021,95448,116,5,22490
+FB114584,Cabriolet,Grey,Gas,Automatic,Second hand,2024,6134,197,2,48990
+FB117189,SUV,Black,Electric,Automatic,New,2025,10,286,5,58950
+FB117190,SUV,Black,Electric,Automatic,New,2025,10,286,5,58950
+FB117192,SUV,Black,Electric,Automatic,New,2025,10,286,5,58950
+FB117191,SUV,Black,Electric,Automatic,New,2025,10,286,5,58950
+FB118734,Urban,Blue,Gas,Automatic,Second hand,2021,57212,110,5,24990
+FB108288,Sedan,Grey,Gas,Manual,Second hand,2020,49052,116,5,18990
+FB118180,Sedan,Grey,Gas,Automatic,Second hand,2021,46052,140,5,26990
+FB111716,SUV,Green,Diesel,Automatic,Second hand,2021,71389,136,5,24990
+FB111421,Sedan,Blue,Gas,Manual,Second hand,2018,98630,125,5,15990
+FB116823,SUV,White,Gas,Manual,Second hand,2019,90922,150,5,15990
+FB114775,SUV,Grey,Gas,Manual,Second hand,2021,92545,110,5,18990
+FB124766,Sedan,Silver,Gas,Manual,Second hand,2021,86264,110,5,19990
+FB124771,Sedan,Black,Diesel,Manual,Second hand,2021,73818,116,5,21490
+FB124772,SUV,Silver,Diesel,Automatic,Second hand,2020,98626,116,5,22990
+FB124775,Coupé,Grey,Diesel,Automatic,Second hand,2020,106043,136,5,24990
+FB125066,Sedan,Blue,Gas,Automatic,Second hand,2022,23088,156,4,31990
+FB125496,Break,White,Gas,Manual,Second hand,2025,14,101,5,20990
+FB128260,Break,Grey,Gas,Automatic,Second hand,2025,10,100,5,24990
+FB127749,SUV,Black,Gas,Manual,Second hand,2025,10,125,5,22990
+FB129927,SUV,Black,Diesel,Manual,Second hand,2019,54680,181,5,23490
+FB98157,Urban,Black,Gas,Automatic,Second hand,2021,79952,95,5,19990
+FB102075,SUV,Grey,Diesel,Automatic,Second hand,2021,56014,150,5,29450
+FB128916,SUV,Black,Electric,Automatic,Demo,2024,25000,286,5,54950
+FB115324,SUV,Grey,Diesel,Automatic,Second hand,2019,95606,150,5,23990
+FB128909,Break,Grey,Electric,Automatic,Demo,2025,15000,367,4,74450
+FB104240,Urban,Silver,Gas,Automatic,Second hand,2024,19490,110,5,28450
+FB112881,Coupé,Black,Diesel,Automatic,Second hand,2021,82457,136,5,27990
+FB125418,SUV,Blue,Hybrid,Automatic,Second hand,2023,22149,94,5,25990
+FB125983,Urban,Grey,Electric,Automatic,Demo,2023,6277,131,5,28690
+FB124990,Sedan,Black,Diesel,Manual,Second hand,2020,97345,116,5,19990
+FB118045,SUV,Black,Gas,Automatic,Second hand,2021,41241,150,4,20990
+FB119182,Monospace,Grey,Gas,Manual,Second hand,2021,45196,116,5,16490
+FB120114,SUV,Grey,Gas,Automatic,Second hand,2021,59069,150,5,29990
+FB119282,Urban,Grey,Gas,Automatic,Second hand,2020,31881,140,5,21990
+FB120882,Urban,Blue,Gas,Manual,Second hand,2018,96492,90,5,9990
+FB120910,Monospace,White,Diesel,Manual,Second hand,2019,105870,102,5,15490
+FB121641,Monospace,Grey,Gas,Manual,Second hand,2017,96460,116,5,12990
+FB120958,Break,Black,Diesel,Manual,Second hand,2018,115166,109,5,15490
+FB121299,Break,White,Gas,Automatic,Second hand,2022,41186,110,5,23990
+FB122078,Sedan,Black,Gas,Manual,Second hand,2019,116639,116,5,12990
+FB121654,SUV,Grey,Diesel,Manual,Second hand,2021,86596,116,5,23990
+FB124962,Urban,White,Gas,Manual,Second hand,2019,113856,72,5,7990
+FB125350,SUV,Red,Hybrid,Automatic,Demo,2023,17315,94,5,21290
+FB125362,SUV,Black,Hybrid,Automatic,Demo,2024,11261,140,5,21690
+FB125365,SUV,Grey,Gas,Manual,Demo,2023,20341,91,5,16990
+FB125363,SUV,Grey,Gas,Manual,Demo,2023,13062,91,5,19290
+FB125397,Urban,Red,Diesel,Manual,Demo,2023,22318,100,5,17590
+FB125944,Urban,White,Gas,Manual,Demo,2024,7479,90,5,16890
+FB119318,Sedan,Black,Gas,Manual,Second hand,2024,13222,110,5,18990
+FB119426,Sedan,Anthracite,Gas,Manual,Second hand,2016,61345,60,5,8990
+FB119438,Sedan,Grey,Gas,Automatic,Second hand,2022,53973,136,4,26990
+FB119810,Break,Grey,Gas,Manual,Second hand,2020,110363,95,5,12990
+FB119994,SUV,Blue,Diesel,Manual,Second hand,2020,83521,95,5,12990
+FB120354,SUV,White,Gas,Manual,Second hand,2018,71431,140,5,14990
+FB126736,Monospace,Anthracite,Gas,Manual,Second hand,2018,97858,116,5,9990
+FB120394,Sedan,Anthracite,Gas,Manual,Second hand,2019,104660,99,5,12990
+FB120696,Urban,Black,Gas,Automatic,New,2025,10,90,5,23679
+FB116413,Sedan,Orange,LPG,Manual,Second hand,2021,43444,91,5,13990
+FB120699,SUV,Grey,Gas,Manual,New,2025,10,90,5,23989
+FB120701,SUV,Black,Hybrid,Automatic,New,2025,10,145,5,33039
+FB120703,SUV,Blue,Hybrid,Automatic,New,2025,10,200,5,51929
+FB120361,Sedan,Blue,Gas,Manual,Second hand,2019,49889,73,5,7990
+FB120705,Monospace,White,Electric,Automatic,Demo,2025,10,220,5,41690
+FB120706,Urban,Grey,Gas,Automatic,New,2025,10,90,5,18459
+FB120711,SUV,Black,Hybrid,Automatic,New,2025,10,200,5,43159
+FB128512,Sedan,Grey,Gas,Automatic,Second hand,2024,4031,333,5,54990
+FB116615,SUV,Red,Gas,Automatic,New,2025,6,116,5,30013
+FB128199,Coupé,Red,Gas,Automatic,Second hand,2022,56231,310,5,41990
+FB128513,SUV,Blue,Hybrid,Automatic,Second hand,2024,7244,150,5,47990
+FB128514,SUV,Grey,Diesel,Automatic,Second hand,2024,2859,163,5,49990
+FB97648,SUV,Blue,Gas,Manual,Demo,2023,10000,95,5,21190
+FB100887,Urban,Grey,Gas,Automatic,Demo,2024,10000,110,5,19290
+FB99436,Break,Grey,Diesel,Manual,Second hand,2020,82773,116,5,17990
+FB100881,SUV,Anthracite,Gas,Manual,Demo,2024,10000,110,5,19690
+FB118751,Cabriolet,Grey,Gas,Manual,Second hand,2017,36350,69,2,9990
+FB120528,SUV,Grey,Gas,Manual,Second hand,2020,63112,99,5,12490
+FB129283,Sedan,Yellow,Electric,Automatic,Demo,2025,1172,150,5,32085
+FB120791,Urban,Blue,Electric,Automatic,New,2025,1,220,5,37833
+FB126607,Break,Black,Gas,Manual,Second hand,2023,33143,95,5,20990
+FB127033,Urban,Grey,Gas,Automatic,Second hand,2020,102759,131,5,18990
+FB127358,Urban,Black,Gas,Automatic,Second hand,2024,33745,95,5,21490
+FB127360,SUV,Black,Diesel,Automatic,Second hand,2021,78124,150,5,28990
+FB127722,Urban,Black,Gas,Automatic,Second hand,2022,23200,95,5,20990
+FB127755,Break,Grey,Gas,Automatic,Second hand,2024,9331,150,5,39990
+FB127754,SUV,Blue,Diesel,Automatic,Second hand,2021,72228,116,5,22990
+FB127766,Urban,Black,Gas,Manual,Second hand,2023,25148,95,5,16990
+FB100748,SUV,Grey,Electric,Automatic,Demo,2022,36500,408,5,59490
+FB98536,Sedan,Silver,Hybrid,Automatic,New,2025,10,408,5,94990
+FB106745,Urban,White,Gas,Automatic,Demo,2024,10914,95,5,28490
+FB124914,SUV,White,Diesel,Automatic,Second hand,2019,67316,131,5,19990
+FB122935,Sedan,Blue,Gas,Manual,Second hand,2020,59099,72,5,13490
+FB125441,Sedan,Green,Gas,Manual,New,2025,1,110,5,20739
+FB125447,Sedan,White,Gas,Manual,New,2025,1,90,5,19439
+FB126301,Urban,Red,Gas,Manual,New,2025,1,90,5,21228
+FB125897,SUV,White,Gas,Automatic,Demo,2023,52618,140,5,24500
+FB120716,Urban,Grey,Gas,Manual,New,2025,10,90,5,20889
+FB120721,Urban,Black,Electric,Automatic,New,2025,10,150,5,33859
+FB120720,Urban,Green,Electric,Automatic,New,2025,10,150,5,33809
+FB120814,SUV,Black,Gas,Manual,Second hand,2023,16102,91,5,20990
+FB121382,Break,Grey,Gas,Manual,Second hand,2024,7900,131,5,29990
+FB121619,SUV,Anthracite,LPG,Manual,Second hand,2023,26495,91,5,20490
+FB122535,SUV,White,Gas,Automatic,Second hand,2021,56987,136,5,27990
+FB123772,Sedan,Blue,LPG,Manual,Second hand,2024,10316,91,5,16490
+FB123652,Monospace,Grey,Electric,Automatic,Demo,2025,60,218,5,42590
+FB124399,Urban,Grey,Gas,Manual,Second hand,2018,34864,69,3,8990
+FB110437,Coupé,Grey,Gas,Automatic,Demo,2024,10000,110,5,36590
+FB108234,SUV,Grey,Electric,Automatic,Demo,2024,14151,204,5,59990
+FB105389,SUV,Grey,Diesel,Automatic,Second hand,2021,48731,150,5,30990
+FB110447,Coupé,Grey,Gas,Automatic,Demo,2024,10000,110,5,36590
+FB110451,Coupé,Black,Gas,Automatic,Demo,2024,10000,110,5,36590
+FB118173,SUV,Champagne,Electric,Automatic,Demo,2024,20000,340,5,56990
+FB118362,SUV,Grey,Gas,Manual,New,2025,7,115,5,28079
+FB118450,SUV,Black,Gas,Automatic,New,2025,4,150,5,48190
+FB118467,SUV,Grey,Hybrid,Automatic,New,2025,4,150,5,52530
+FB118746,Sedan,Grey,Gas,Automatic,Second hand,2023,10254,110,4,29990
+FB118972,Urban,Anthracite,Gas,Automatic,New,2025,7,116,5,22189
+FB118970,Urban,Anthracite,Gas,Automatic,New,2025,7,116,5,21729
+FB119088,Urban,Black,Gas,Automatic,Second hand,2023,33572,178,3,28990
+FB118976,SUV,Black,Gas,Manual,New,2025,7,116,5,28631
+FB119372,SUV,White,Hybrid,Automatic,Demo,2025,10000,177,5,65990
+FB120078,SUV,Blue,Electric,Automatic,New,2025,7,286,5,49260
+FB120229,Urban,Blue,Gas,Manual,Second hand,2024,50,70,3,14990
+FB92148,Urban,White,Electric,Automatic,Demo,2023,30000,204,5,33890
+FB92987,SUV,Blue,Gas,Manual,Second hand,2023,23585,110,5,19990
+FB114464,SUV,Anthracite,Gas,Manual,Second hand,2023,69770,131,5,26490
+FB114653,SUV,White,Gas,Automatic,Second hand,2023,21938,136,5,40490
+FB115676,Monospace,Red,Diesel,Automatic,New,2025,10,122,5,38250
+FB115562,SUV,Red,Gas,Manual,Second hand,2018,94562,150,5,14990
+FB115674,Break,Grey,Hybrid,Automatic,Demo,2024,8950,150,5,47990
+FB107789,SUV,Grey,Gas,Manual,Demo,2024,25000,110,5,25490
+FB129186,Utility,White,Diesel,Manual,New,2025,10,102,2,24500
+FB108170,Urban,White,Electric,Automatic,Demo,2024,25000,204,5,36990
+FB111425,SUV,Grey,Gas,Automatic,Second hand,2022,55738,150,5,26990
+FB111641,Sedan,Grey,Gas,Manual,Second hand,2020,88390,116,5,15490
+FB112891,Break,Black,Diesel,Manual,Second hand,2020,84029,136,5,14990
+FB113432,Break,Silver,Gas,Manual,Second hand,2022,58997,110,5,17490
+FB113542,SUV,Blue,Hybrid,Automatic,Second hand,2022,28070,94,5,20990
+FB115905,SUV,Black,Gas,Manual,Second hand,2019,99310,116,5,16990
+FB115005,Urban,Grey,Diesel,Manual,Second hand,2020,89381,116,5,16490
+FB124528,SUV,Grey,Gas,Manual,Second hand,2024,12670,110,5,21490
+FB126393,Monospace,Blue,Gas,Automatic,Second hand,2022,63729,140,5,24490
+FB125061,Cabriolet,Grey,Gas,Manual,Second hand,2019,44918,156,2,28990
+FB126450,Break,Grey,Diesel,Automatic,Second hand,2020,69901,122,5,21990
+FB125513,SUV,Grey,Diesel,Automatic,Second hand,2021,66426,136,5,23990
+FB126413,Urban,White,Gas,Manual,Second hand,2018,95472,95,5,14790
+FB126530,Urban,Grey,Diesel,Manual,Second hand,2021,113593,116,5,19990
+FB120143,Urban,Red,Diesel,Automatic,Second hand,2019,97108,116,5,14990
+FB121318,Urban,Anthracite,Gas,Manual,Second hand,2022,29857,90,5,19990
+FB122981,SUV,Silver,Gas,Manual,Second hand,2024,11859,115,5,22990
+FB123383,Urban,Silver,Gas,Manual,Second hand,2021,60247,110,5,19990
+FB123530,Urban,Anthracite,Gas,Automatic,Second hand,2021,90355,95,5,16990
+FB123873,SUV,Grey,LPG,Manual,Second hand,2022,25764,91,5,17490
+FB126623,SUV,Anthracite,Gas,Automatic,Second hand,2024,16887,150,5,22790
+FB126830,Urban,White,Gas,Automatic,Second hand,2023,38942,110,5,23790
+FB128534,SUV,Black,Gas,Automatic,Second hand,2024,14531,150,5,38990
+FB114134,SUV,White,Electric,Automatic,New,2025,10,286,5,51900
+FB112183,Sedan,Grey,Hybrid,Automatic,New,2025,5,272,5,50930
+FB114523,SUV,Grey,Gas,Manual,Second hand,2022,55840,110,5,18990
+FB115004,SUV,Grey,Gas,Manual,Second hand,2021,76764,150,5,21990
+FB115750,Sedan,Grey,Gas,Automatic,Second hand,2020,87740,116,5,17990
+FB116584,SUV,White,Gas,Manual,Second hand,2021,49950,95,5,15990
+FB116425,Break,Black,Diesel,Manual,Second hand,2020,116560,116,5,14990
+FB117526,Sedan,Red,Gas,Manual,Second hand,2020,66693,150,5,15990
+FB118194,SUV,Grey,Gas,Automatic,Demo,2024,13290,150,5,31990
+FB118388,Sedan,Silver,Gas,Automatic,Second hand,2021,46898,110,5,18990
+FB118390,Break,Grey,Gas,Manual,Second hand,2019,94451,95,5,11990
+FB118843,Urban,Anthracite,Gas,Manual,Second hand,2022,23872,95,5,15990
+FB119187,Break,Grey,Diesel,Automatic,Second hand,2021,103701,116,5,19990
+FB118875,Break,Grey,Diesel,Automatic,Second hand,2022,103577,136,5,24990
+FB119473,SUV,White,Gas,Automatic,New,2025,10,150,5,40790
+FB119474,SUV,White,Gas,Automatic,New,2025,10,150,5,40890
+FB123497,Urban,White,Gas,Manual,Second hand,2024,10,70,3,14990
+FB120690,Cabriolet,Anthracite,Gas,Manual,Second hand,2017,94969,105,3,18490
+FB125387,Sedan,White,Gas,Automatic,Second hand,2023,84720,110,5,24990
+FB119476,Break,White,Gas,Automatic,New,2025,5,150,5,31990
+FB120140,Sedan,Blue,Gas,Automatic,Second hand,2020,68972,116,5,17490
+FB120201,SUV,White,Gas,Automatic,Second hand,2018,87973,192,5,23990
+FB120319,SUV,Grey,Gas,Automatic,Second hand,2021,74961,150,5,24990
+FB120403,Break,Grey,Diesel,Manual,Second hand,2020,91336,116,5,14990
+FB120388,Sedan,Black,Diesel,Manual,Second hand,2020,104065,116,5,13990
+FB121053,Break,White,Gas,Manual,Second hand,2018,80573,101,5,11750
+FB121487,Coupé,Anthracite,Gas,Automatic,Second hand,2022,95763,110,5,18490
+FB127730,SUV,Black,Gas,Automatic,Second hand,2024,53746,150,5,39990
+FB122899,SUV,Red,Gas,Manual,Second hand,2021,59378,99,5,14990
+FB122929,Urban,White,Gas,Manual,Second hand,2018,87410,75,5,10490
+FB123386,Sedan,Black,Gas,Manual,Second hand,2021,80605,110,5,19990
+FB121717,Monospace,Silver,Diesel,Manual,Second hand,2022,16844,131,5,28990
+FB122047,Break,Grey,Gas,Automatic,Demo,2024,25685,110,5,25490
+FB122371,Sedan,Grey,Gas,Manual,Second hand,2020,32142,67,5,11490
+FB124499,SUV,Grey,Diesel,Automatic,Second hand,2019,77890,160,5,23990
+FB122391,Break,Black,Gas,Automatic,Second hand,2024,16854,150,5,30990
+FB112459,SUV,Blue,Gas,Automatic,Second hand,2020,72101,150,5,20750
+FB117776,Sedan,Black,Gas,Automatic,Second hand,2020,94748,150,5,20990
+FB117582,Break,White,Gas,Manual,Second hand,2021,63081,131,5,16990
+FB128830,Sedan,Black,Gas,Manual,Demo,2025,9500,116,5,31999
+FB118065,Urban,Black,Gas,Automatic,Second hand,2021,44409,110,5,20990
+FB125400,Coupé,Grey,Diesel,Manual,Second hand,2021,76613,116,5,21990
+FB126126,Sedan,White,Hybrid,Automatic,Second hand,2024,23931,98,4,25250
+FB125928,Break,Grey,Diesel,Automatic,Second hand,2023,59175,136,5,31990
+FB126554,Sedan,Grey,Gas,Manual,Second hand,2021,62641,65,5,11990
+FB104233,Urban,Black,Gas,Manual,Second hand,2019,70740,65,5,12990
+FB127047,Break,Grey,Gas,Automatic,Second hand,2024,10617,150,5,39990
+FB127048,Break,Blue,Diesel,Automatic,Second hand,2022,51273,163,5,37990
+FB127101,Sedan,Blue,Hybrid,Automatic,Demo,2025,10000,150,5,36990
+FB126565,SUV,Grey,Gas,Manual,Second hand,2023,26644,110,5,18990
+FB64887,SUV,White,Gas,Automatic,Demo,2021,63125,110,5,20490
+FB103644,SUV,Silver,Electric,Automatic,Demo,2023,27892,204,5,45990
+FB114810,SUV,Anthracite,Gas,Automatic,Demo,2024,6891,115,5,30890
+FB98855,Sedan,Silver,Gas,Manual,Second hand,2021,78112,150,5,16990
+FB108618,Break,Silver,Diesel,Automatic,Demo,2024,27498,116,5,28990
+FB82587,Sedan,Anthracite,Gas,Automatic,Second hand,2023,62009,110,5,22990
+FB83879,SUV,Silver,Electric,Automatic,Demo,2022,42679,204,5,38891
+FB105955,Urban,Silver,Gas,Manual,Demo,2024,18965,95,5,19190
+FB105953,SUV,Black,Gas,Manual,Demo,2024,19647,95,5,23290
+FB110473,Coupé,Black,Gas,Automatic,Demo,2024,21649,110,5,25740
+FB109879,Urban,Blue,Gas,Manual,Demo,2024,11649,95,5,19390
+FB90443,Coupé,Silver,Gas,Manual,Demo,2023,34567,90,5,20290
+FB109878,Urban,White,Gas,Manual,Demo,2024,13447,95,5,19390
+FB90471,SUV,White,Gas,Manual,Demo,2023,29744,95,5,19490
+FB111795,SUV,Anthracite,Gas,Manual,Demo,2024,23459,116,5,26190
+FB114873,SUV,Grey,Gas,Automatic,Second hand,2024,16670,91,5,19990
+FB92172,Coupé,Silver,Gas,Manual,Demo,2023,29789,110,5,20890
+FB121179,SUV,Black,Gas,Automatic,Demo,2025,9000,116,5,25990
+FB121315,Sedan,White,Gas,Manual,Second hand,2023,5730,91,5,14999
+FB121999,SUV,White,Gas,Manual,Second hand,2016,82593,125,5,13490
+FB124320,Utility,White,Diesel,Automatic,Demo,2025,9999,150,4,38990
+FB124846,SUV,Blue,Gas,Manual,Second hand,2024,27356,115,5,22990
+FB127063,Urban,Grey,Gas,Manual,Demo,2024,14990,95,5,23490
+FB127142,Urban,Black,Gas,Manual,Demo,2024,14990,95,5,22190
+FB127067,Urban,Grey,Gas,Manual,Demo,2024,14990,80,5,18490
+FB128126,Urban,Grey,Hybrid,Automatic,Second hand,2023,34971,98,5,25990
+FB127450,Cabriolet,Green,Gas,Manual,New,2025,10,116,2,37490
+FB94097,Monospace,Blue,Electric,Automatic,Demo,2024,46990,204,5,56990
+FB115029,Utility,Anthracite,Diesel,Manual,Second hand,2021,89409,122,3,18990
+FB96820,Sedan,Grey,Gas,Automatic,Demo,2023,24990,110,5,25490
+FB105390,Utility,Grey,Diesel,Manual,Demo,2024,19990,102,4,26990
+FB108722,Sedan,Blue,Gas,Manual,Second hand,2021,35975,110,5,21490
+FB109602,SUV,Silver,Gas,Automatic,Demo,2024,29990,110,5,29490
+FB110685,Sedan,Grey,Gas,Automatic,Demo,2024,24990,110,4,38490
+FB112691,SUV,Blue,Gas,Manual,Second hand,2018,108445,125,5,17490
+FB113158,Break,White,Gas,Automatic,Second hand,2023,44234,150,5,35990
+FB114586,Cabriolet,Grey,Gas,Automatic,Second hand,2024,7489,197,2,48990
+FB115724,Sedan,White,Gas,Automatic,Second hand,2021,83971,110,5,20490
+FB125386,SUV,Grey,Gas,Automatic,Second hand,2020,86145,116,5,16490
+FB125382,Break,Grey,Gas,Manual,Second hand,2020,89547,150,5,18990
+FB125380,Break,White,Gas,Manual,Second hand,2019,108153,116,5,12990
+FB125415,Sedan,Blue,Diesel,Manual,Second hand,2021,80342,116,5,21990
+FB126740,Urban,Silver,Gas,Manual,Second hand,2018,95305,95,5,12990
+FB125896,SUV,White,Gas,Manual,Second hand,2021,74967,95,5,17990
+FB125910,Break,Black,Diesel,Automatic,Second hand,2020,97753,150,5,20490
+FB126552,SUV,Grey,Diesel,Manual,Second hand,2020,105739,116,5,16990
+FB126603,Sedan,Black,Gas,Manual,Second hand,2023,22074,95,5,19990
+FB127410,Sedan,Grey,Gas,Manual,Second hand,2023,44868,110,5,24990
+FB127600,Break,White,Hybrid,Automatic,Demo,2024,13778,150,5,36990
+FB128075,SUV,Black,Gas,Automatic,Second hand,2021,53401,150,5,24990
+FB126635,SUV,Grey,Gas,Manual,New,2025,1,116,5,34201
+FB126767,Sedan,Anthracite,Gas,Automatic,New,2025,1,150,5,42040
+FB96932,Sedan,Blue,Electric,Automatic,Demo,2023,39990,286,5,48990
+FB97438,Break,Grey,Gas,Manual,Demo,2024,30990,116,5,27490
+FB110436,SUV,Silver,Gas,Manual,Second hand,2023,17750,110,5,22990
+FB112265,Urban,Grey,Electric,Automatic,Demo,2024,14990,204,5,37990
+FB115771,Break,Black,Diesel,Automatic,Second hand,2020,85884,122,5,20990
+FB115754,Break,Blue,Diesel,Automatic,Second hand,2020,96450,163,5,23990
+FB116664,Monospace,White,Diesel,Manual,Second hand,2020,35147,102,5,17990
+FB116035,Utility,White,Diesel,Manual,Second hand,2020,52607,75,4,15490
+FB117035,SUV,Grey,Gas,Automatic,Second hand,2022,36291,110,5,23990
+FB117092,Urban,Black,Gas,Manual,Second hand,2021,78410,95,5,14990
+FB121142,SUV,Anthracite,Gas,Automatic,Second hand,2022,47794,110,5,24490
+FB117161,Break,Black,Diesel,Automatic,Second hand,2021,87545,136,5,25990
+FB118256,Break,Black,Gas,Automatic,Demo,2024,14990,150,5,37990
+FB119451,SUV,Red,Diesel,Automatic,Second hand,2024,21642,150,5,46000
+FB118930,Sedan,Black,Gas,Manual,Second hand,2020,103166,140,5,17490
+FB120646,SUV,Grey,Diesel,Automatic,Second hand,2023,35287,116,5,27990
+FB127116,SUV,Red,Gas,Manual,Second hand,2021,20134,95,5,19740
+FB127589,Break,Anthracite,Gas,Automatic,Demo,2025,5697,150,5,40390
+FB129505,SUV,Grey,Electric,Automatic,New,2025,1,285,5,63851
+FB129630,SUV,Black,Electric,Automatic,New,2025,2,285,5,48226
+FB129615,SUV,Black,Electric,Automatic,New,2025,2,285,5,68606
+FB101961,SUV,Silver,Gas,Manual,Demo,2024,19990,110,5,23490
+FB114224,Break,Anthracite,Diesel,Manual,Second hand,2020,87475,116,5,17990
+FB115714,SUV,Anthracite,Diesel,Automatic,Demo,2024,26498,150,5,47890
+FB110801,Urban,Grey,Gas,Manual,Demo,2024,14659,116,5,24690
+FB118891,Coupé,Grey,Gas,Manual,Demo,2024,6789,116,5,25190
+FB113498,SUV,Grey,Gas,Manual,Second hand,2019,97823,150,5,13990
+FB115903,Coupé,Black,Electric,Automatic,New,2025,5,286,5,57990
+FB116583,Break,Silver,Diesel,Automatic,Demo,2025,8,163,5,67850
+FB116913,Break,Blue,Gas,Automatic,Demo,2024,15000,150,5,47990
+FB116803,SUV,Black,Electric,Automatic,Demo,2025,9990,286,5,59990
+FB117712,SUV,White,Gas,Manual,Second hand,2020,60958,116,5,21490
+FB116944,Urban,Silver,Gas,Automatic,Demo,2024,14990,116,5,34790
+FB117796,SUV,Grey,Gas,Manual,Second hand,2022,64838,95,5,17990
+FB118302,Sedan,Red,Gas,Manual,Second hand,2018,73880,105,3,16490
+FB118881,Sedan,Anthracite,Gas,Automatic,New,2025,1,150,5,44650
+FB113692,SUV,Anthracite,Gas,Automatic,Demo,2024,23498,116,5,26690
+FB113695,SUV,Silver,Gas,Automatic,Demo,2024,21649,116,5,26690
+FB114608,Break,Silver,Gas,Manual,Second hand,2022,81336,110,5,17490
+FB114621,Break,Grey,Diesel,Automatic,Second hand,2019,91267,120,5,18490
+FB116340,SUV,Orange,Gas,Manual,Second hand,2021,47944,140,5,15490
+FB115990,SUV,Silver,Gas,Manual,Demo,2024,9659,116,5,28690
+FB117404,Break,Anthracite,Diesel,Automatic,New,2025,1,150,5,46308
+FB117394,Coupé,Black,Gas,Manual,Demo,2024,8469,110,5,28290
+FB117406,Break,Anthracite,Diesel,Automatic,New,2025,1,150,5,42470
+FB118396,SUV,Black,Gas,Manual,Demo,2024,9763,116,5,25690
+FB117632,SUV,Silver,Gas,Manual,Demo,2024,5265,116,5,26690
+FB113829,Sedan,Blue,Gas,Automatic,Second hand,2023,12884,150,5,27990
+FB114187,SUV,Grey,Gas,Manual,Second hand,2019,88083,116,5,17450
+FB114119,SUV,Silver,Gas,Manual,Second hand,2020,110691,116,5,18490
+FB115746,Urban,Blue,Gas,Manual,Second hand,2021,48958,95,5,17990
+FB109494,Break,Blue,Diesel,Automatic,Second hand,2019,87711,163,5,28950
+FB117509,Break,Blue,Gas,Automatic,Second hand,2024,6070,150,5,33490
+FB116428,Break,Blue,Diesel,Automatic,Second hand,2019,121747,163,5,25990
+FB118337,Urban,Black,Gas,Automatic,Demo,2024,8950,110,5,29950
+FB119400,Coupé,Anthracite,Gas,Manual,Second hand,2021,46662,110,5,21950
+FB119430,Break,Anthracite,Gas,Automatic,New,2025,1,150,5,37826
+FB119566,Urban,Black,Gas,Manual,Second hand,2023,22142,99,5,19740
+FB119591,SUV,Grey,Gas,Manual,Second hand,2021,56640,110,5,18990
+FB120387,Break,Grey,Diesel,Manual,Second hand,2019,83771,116,5,14990
+FB120042,SUV,Grey,Gas,Manual,Second hand,2024,14962,129,5,24990
+FB120401,SUV,Grey,Gas,Manual,Second hand,2020,79380,116,5,18990
+FB129329,SUV,Blue,Diesel,Automatic,New,2025,12,204,5,85990
+FB118424,SUV,Grey,Gas,Manual,Second hand,2019,113457,131,5,18490
+FB118900,Coupé,Blue,Gas,Automatic,New,2025,2,116,3,30350
+FB118915,Sedan,Anthracite,Gas,Manual,Demo,2025,9990,95,5,28990
+FB118882,Sedan,Anthracite,Gas,Automatic,New,2025,2,400,5,85190
+FB119035,SUV,Silver,Electric,Automatic,New,2025,2,277,5,58490
+FB119168,SUV,Blue,Electric,Automatic,New,2025,2,277,5,64590
+FB119912,SUV,White,Gas,Manual,Second hand,2018,84843,125,5,19490
+FB120566,Urban,White,Gas,Manual,Second hand,2018,120831,75,5,10990
+FB120633,SUV,Blue,Gas,Automatic,Demo,2025,9990,150,5,33490
+FB120760,Break,Blue,Electric,Automatic,New,2025,2,367,5,105873
+FB122393,Urban,White,Gas,Manual,Second hand,2021,45035,80,5,14790
+FB122537,Sedan,Black,Gas,Automatic,Second hand,2021,32357,95,5,24490
+FB124483,SUV,Anthracite,Gas,Manual,Second hand,2019,92106,95,5,16290
+FB125536,Sedan,Silver,Gas,Manual,Demo,2025,14990,95,5,28990
+FB124858,SUV,Black,Gas,Manual,Second hand,2016,108997,125,5,15990
+FB126101,SUV,Black,Gas,Manual,Second hand,2018,79623,116,5,16590
+FB126446,Break,Anthracite,Diesel,Automatic,Second hand,2022,64774,163,5,36990
+FB126527,SUV,Black,Gas,Manual,Second hand,2020,69202,116,5,18990
+FB126533,Sedan,Black,Diesel,Manual,Second hand,2021,97196,116,4,20990
+FB126670,Urban,Silver,Gas,Manual,Demo,2025,14990,95,5,28490
+FB126785,SUV,Black,Gas,Manual,Second hand,2021,56677,131,5,24990
+FB127401,Urban,Green,Gas,Manual,Second hand,2024,4739,95,5,24990
+FB127901,SUV,White,Gas,Automatic,Second hand,2024,28816,116,5,23990
+FB127951,Sedan,Black,Gas,Automatic,Second hand,2023,29659,110,5,24990
+FB128143,Urban,White,Gas,Manual,Second hand,2024,4944,95,5,19990
+FB130053,Coupé,Black,Gas,Manual,New,2025,1,95,3,28190
+FB130049,Coupé,Black,Gas,Automatic,New,2025,1,116,5,35650
+FB111068,SUV,Grey,Gas,Manual,Second hand,2021,52940,150,5,25990
+FB120426,SUV,Black,Gas,Automatic,Second hand,2020,98830,110,5,17490
+FB119623,Sedan,Grey,Gas,Manual,Second hand,2018,40725,69,5,8990
+FB120429,SUV,Black,Gas,Automatic,Second hand,2020,39723,150,5,32990
+FB120428,Cabriolet,Red,Gas,Automatic,Second hand,2020,69165,150,2,26990
+FB122101,Break,Black,Hybrid,Automatic,Demo,2025,14990,150,5,49990
+FB122978,SUV,Silver,Gas,Automatic,Second hand,2024,14499,110,5,23990
+FB125676,SUV,Silver,Gas,Automatic,Second hand,2024,12188,110,5,24990
+FB123371,Sedan,Silver,Gas,Manual,Second hand,2021,84191,110,5,19990
+FB126099,Sedan,Black,Gas,Manual,Second hand,2019,92212,116,5,17990
+FB126245,SUV,Black,LPG,Manual,Second hand,2022,57454,91,5,19990
+FB99850,SUV,Black,Diesel,Manual,Second hand,2019,96500,150,5,19990
+FB111764,Sedan,Grey,Gas,Manual,Second hand,2023,26546,110,5,22990
+FB113868,Break,White,Gas,Manual,Second hand,2020,89727,116,5,17990
+FB112821,Monospace,Silver,Hybrid,Automatic,Second hand,2020,74665,160,5,27990
+FB130063,Sedan,Black,Gas,Automatic,New,2025,1,150,5,58290
+FB117081,Sedan,Black,Electric,Automatic,New,2025,10,286,5,57990
+FB117454,SUV,Silver,Diesel,Manual,Second hand,2019,87436,131,4,16990
+FB117085,Break,Black,Gas,Automatic,New,2025,5,116,5,32490
+FB110642,Cabriolet,White,Gas,Manual,Second hand,2019,58349,136,2,20990
+FB117627,SUV,White,Gas,Automatic,Second hand,2019,91635,150,5,24990
+FB120051,Sedan,Blue,Gas,Manual,Second hand,2018,45011,110,5,15990
+FB119552,Sedan,Blue,Gas,Manual,Second hand,2022,42628,110,4,20990
+FB121388,Break,Grey,Gas,Manual,Second hand,2016,97522,90,5,8990
+FB121591,SUV,Anthracite,Diesel,Manual,Second hand,2021,91683,116,5,17990
+FB121685,Urban,Black,Gas,Manual,Second hand,2018,82983,60,3,8990
+FB123233,Urban,Grey,Gas,Manual,Second hand,2021,110270,80,4,12990
+FB122269,Urban,Grey,Gas,Automatic,Second hand,2021,91692,110,4,21490
+FB124834,SUV,Grey,Gas,Manual,Second hand,2022,70543,110,4,20990
+FB123799,SUV,White,Gas,Automatic,Second hand,2021,85640,129,5,21990
+FB123826,SUV,Grey,Gas,Manual,Second hand,2022,40710,110,5,22990
+FB125500,SUV,Grey,Gas,Automatic,Second hand,2024,16633,110,5,24990
+FB127823,Monospace,Black,Diesel,Manual,Second hand,2020,73070,102,4,15990
+FB127897,SUV,Black,Gas,Automatic,Second hand,2024,23318,116,5,23990
+FB127902,Sedan,Grey,Gas,Manual,Second hand,2024,28212,110,5,23990
+FB128130,Urban,Black,Gas,Manual,Second hand,2024,9805,95,5,19990
+FB117360,Utility,Grey,Diesel,Manual,New,2025,7,102,4,27500
+FB101872,SUV,White,Diesel,Manual,Second hand,2018,119022,116,5,15990
+FB112613,SUV,Silver,Electric,Automatic,Demo,2024,5000,286,5,46990
+FB128856,SUV,Anthracite,Diesel,Automatic,Second hand,2022,117875,150,5,25990
+FB129064,Sedan,Blue,Hybrid,Automatic,Demo,2025,12999,150,5,39990
+FB129561,SUV,White,Gas,Automatic,New,2025,10,150,5,52340
+FB130058,Coupé,Silver,Gas,Automatic,New,2025,1,95,5,29090
+FB130041,Coupé,Grey,Gas,Automatic,New,2025,1,95,3,32480
+FB130037,SUV,Grey,Hybrid,Automatic,New,2025,1,286,5,105975
+FB130048,Coupé,Black,Gas,Automatic,New,2025,1,95,5,32090
+FB130042,Coupé,Grey,Gas,Automatic,New,2025,1,116,3,36170
+FB130057,Coupé,Black,Gas,Automatic,New,2025,1,95,3,29090
+FB130054,Coupé,Blue,Gas,Automatic,New,2025,1,95,5,28800
+FB130060,Coupé,Grey,Gas,Automatic,New,2025,1,116,5,36140
+FB130062,Coupé,White,Gas,Automatic,New,2025,1,116,5,34120
+FB127904,SUV,White,Gas,Automatic,Second hand,2024,24120,116,5,23990
+FB127990,SUV,Blue,Gas,Manual,Second hand,2024,14967,150,5,24990
+FB128145,Urban,White,Gas,Manual,Second hand,2024,8347,95,5,19990
+FB128373,Sedan,White,Gas,Manual,Second hand,2020,33504,110,5,17990
+FB128797,SUV,Anthracite,Gas,Manual,Second hand,2025,14895,95,5,21990
+FB107719,Sedan,Black,Gas,Automatic,New,2025,9,150,4,60370
+FB116816,Break,Blue,Gas,Automatic,New,2025,10,204,5,66499
+FB111741,Urban,Grey,Gas,Automatic,New,2025,9,116,5,34040
+FB115824,SUV,Blue,Electric,Automatic,New,2025,7,286,5,70999
+FB117338,SUV,Black,Diesel,Automatic,Second hand,2023,40940,163,5,34990
+FB118054,SUV,Black,Electric,Automatic,New,2025,12,286,5,55700
+FB118055,SUV,Black,Electric,Automatic,New,2025,11,387,5,89410
+FB118051,Break,Black,Diesel,Automatic,New,2025,11,163,5,75700
+FB118058,SUV,Black,Gas,Automatic,New,2025,16,387,5,106899
+FB118525,Urban,Grey,Gas,Automatic,New,2025,7,116,5,37280
+FB128733,Urban,Blue,Gas,Automatic,New,2025,11,116,5,32830
+FB128731,Urban,Blue,Gas,Manual,New,2025,12,95,5,28727
+FB117849,Sedan,Grey,Diesel,Automatic,New,2025,11,163,5,63950
+FB126557,Break,Blue,Gas,Automatic,New,2025,1,150,5,43502
+FB126771,Break,Black,Gas,Automatic,New,2025,1,150,5,49601
+FB116891,Sedan,Blue,Hybrid,Automatic,Second hand,2023,16027,152,5,25990
+FB112981,SUV,Black,Gas,Automatic,Second hand,2022,49935,136,5,32990
+FB118040,Urban,Grey,Gas,Automatic,New,2025,10,95,5,28273
+FB118044,Sedan,Grey,Gas,Automatic,New,2025,14,150,4,58210
+FB118043,Urban,Grey,Gas,Manual,New,2025,13,95,5,26400
+FB116761,Urban,Grey,Hybrid,Automatic,Second hand,2023,23378,95,5,19990

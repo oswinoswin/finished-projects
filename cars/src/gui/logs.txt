@@ -1,0 +1,88 @@
+025-06-29 16:12:42,333 - INFO - Assets path configured: C:\Users\laura\PycharmProjects\Ambrozy\cars\src\gui\assets
+2025-06-29 16:12:42,338 - INFO - Starting up TCP server on localhost:58061
+2025-06-29 16:12:42,356 - INFO - Flet app has started...
+2025-06-29 16:12:42,359 - INFO - App URL: tcp://localhost:58061
+2025-06-29 16:12:42,359 - INFO - Starting Flet View app...
+2025-06-29 16:12:42,362 - INFO - Looking for Flet executable at: C:\Users\laura\PycharmProjects\Ambrozy\cars\venv\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-06-29 16:12:42,362 - INFO - Flet View found in: C:\Users\laura\PycharmProjects\Ambrozy\cars\venv\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-06-29 16:12:43,395 - INFO - App session started
+2025-06-29 16:12:59,839 - INFO - Input: year=2020, mileage=1000, power=100, fuel=Electric, gearbox=Automatic, type=Demo
+2025-06-29 16:12:59,839 - INFO - Prediction result: 10985 EUR
+2025-06-29 16:13:07,203 - ERROR - Prediction failed: invalid literal for int() with base 10: '0gdsfg'
+2025-06-29 16:13:15,739 - INFO - Input: year=2020, mileage=1000, power=100, fuel=Electric, gearbox=Automatic, type=New
+2025-06-29 16:13:15,739 - INFO - Prediction result: 15334 EUR
+2025-06-29 16:16:42,281 - INFO - Assets path configured: C:\Users\laura\PycharmProjects\Ambrozy\cars\src\gui\assets
+2025-06-29 16:16:42,286 - INFO - Starting up TCP server on localhost:58172
+2025-06-29 16:16:42,310 - INFO - Flet app has started...
+2025-06-29 16:16:42,313 - INFO - App URL: tcp://localhost:58172
+2025-06-29 16:16:42,313 - INFO - Starting Flet View app...
+2025-06-29 16:16:42,315 - INFO - Looking for Flet executable at: C:\Users\laura\PycharmProjects\Ambrozy\cars\venv\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-06-29 16:16:42,315 - INFO - Flet View found in: C:\Users\laura\PycharmProjects\Ambrozy\cars\venv\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-06-29 16:16:42,744 - INFO - App session started
+2025-06-29 16:18:38,285 - INFO - Assets path configured: C:\Users\laura\PycharmProjects\Ambrozy\cars\src\gui\assets
+2025-06-29 16:18:38,294 - INFO - Starting up TCP server on localhost:58273
+2025-06-29 16:18:38,335 - INFO - Flet app has started...
+2025-06-29 16:18:38,342 - INFO - App URL: tcp://localhost:58273
+2025-06-29 16:18:38,343 - INFO - Starting Flet View app...
+2025-06-29 16:18:38,345 - INFO - Looking for Flet executable at: C:\Users\laura\PycharmProjects\Ambrozy\cars\venv\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-06-29 16:18:38,346 - INFO - Flet View found in: C:\Users\laura\PycharmProjects\Ambrozy\cars\venv\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-06-29 16:18:39,069 - INFO - App session started
+2025-06-29 16:25:03,734 - INFO - Assets path configured: C:\Users\laura\PycharmProjects\Ambrozy\cars\src\gui\assets
+2025-06-29 16:25:04,578 - INFO - Starting Flet web server on port 58604...
+2025-06-29 16:25:04,582 - INFO - Web renderer configured: WebRenderer.CANVAS_KIT
+2025-06-29 16:25:04,582 - INFO - Use color emoji: False
+2025-06-29 16:25:04,582 - INFO - Route URL strategy configured: path
+2025-06-29 16:25:04,673 - INFO - Starting up Flet App Manager
+2025-06-29 16:25:04,674 - INFO - App URL: http://127.0.0.1:58604
+2025-06-29 16:25:05,888 - INFO - Temp dir created for patched index and manifest: C:\Users\laura\AppData\Local\Temp\tmpj08s8yff
+2025-06-29 16:25:05,889 - INFO - Web root: C:\Users\laura\PycharmProjects\Ambrozy\cars\venv\Lib\site-packages\flet_web\web
+2025-06-29 16:25:05,889 - INFO - assets_dir does not exist: C:\Users\laura\PycharmProjects\Ambrozy\cars\src\gui\assets
+2025-06-29 16:25:05,890 - INFO - Assets dir: None
+2025-06-29 16:25:12,414 - INFO - New FletApp: E0UQfss5
+2025-06-29 16:25:12,460 - INFO - New session created (1 total): _6dyZjM32zOHFid9Y_fe6185370372ac104cf66ba6ac2e4fdfa1fd6ed5
+2025-06-29 16:25:12,460 - INFO - Start session: 6dyZjM32zOHFid9Y
+2025-06-29 16:25:29,969 - INFO - Session disconnected: _6dyZjM32zOHFid9Y_fe6185370372ac104cf66ba6ac2e4fdfa1fd6ed5
+2025-06-29 16:26:22,387 - INFO - Shutting down Flet App Manager
+2025-06-29 16:26:22,387 - INFO - Deleting temp dir: C:\Users\laura\AppData\Local\Temp\tmpj08s8yff
+2025-06-29 16:26:22,393 - INFO - Flet app has started...
+2025-06-29 16:26:22,393 - INFO - Closing Flet web server...
+2025-06-29 16:26:28,862 - INFO - Assets path configured: C:\Users\laura\PycharmProjects\Ambrozy\cars\src\gui\assets
+2025-06-29 16:26:29,590 - INFO - Starting Flet web server on port 58667...
+2025-06-29 16:26:29,592 - INFO - Web renderer configured: WebRenderer.CANVAS_KIT
+2025-06-29 16:26:29,592 - INFO - Use color emoji: False
+2025-06-29 16:26:29,592 - INFO - Route URL strategy configured: path
+2025-06-29 16:26:29,649 - INFO - Starting up Flet App Manager
+2025-06-29 16:26:29,649 - INFO - App URL: http://127.0.0.1:58667
+2025-06-29 16:26:30,345 - INFO - Temp dir created for patched index and manifest: C:\Users\laura\AppData\Local\Temp\tmp00feuo4h
+2025-06-29 16:26:30,345 - INFO - Web root: C:\Users\laura\PycharmProjects\Ambrozy\cars\venv\Lib\site-packages\flet_web\web
+2025-06-29 16:26:30,346 - INFO - assets_dir does not exist: C:\Users\laura\PycharmProjects\Ambrozy\cars\src\gui\assets
+2025-06-29 16:26:30,347 - INFO - Assets dir: None
+2025-06-29 16:26:35,958 - INFO - New FletApp: OGSjfDBl
+2025-06-29 16:26:36,570 - INFO - New session created (1 total): _ufTZQdySBH06duQo_fe6185370372ac104cf66ba6ac2e4fdfa1fd6ed5
+2025-06-29 16:26:36,571 - INFO - Start session: ufTZQdySBH06duQo
+2025-06-29 16:26:41,096 - INFO - Session disconnected: _ufTZQdySBH06duQo_fe6185370372ac104cf66ba6ac2e4fdfa1fd6ed5
+2025-06-29 16:26:58,241 - INFO - Shutting down Flet App Manager
+2025-06-29 16:26:58,241 - INFO - Deleting temp dir: C:\Users\laura\AppData\Local\Temp\tmp00feuo4h
+2025-06-29 16:26:58,248 - INFO - Flet app has started...
+2025-06-29 16:26:58,249 - INFO - Closing Flet web server...
+2025-06-29 16:28:53,438 - INFO - Assets path configured: C:\Users\laura\PycharmProjects\Ambrozy\cars\src\gui\assets
+2025-06-29 16:28:54,208 - INFO - Starting Flet web server on port 58812...
+2025-06-29 16:28:54,210 - INFO - Web renderer configured: WebRenderer.CANVAS_KIT
+2025-06-29 16:28:54,210 - INFO - Use color emoji: False
+2025-06-29 16:28:54,210 - INFO - Route URL strategy configured: path
+2025-06-29 16:28:54,274 - INFO - Starting up Flet App Manager
+2025-06-29 16:28:54,274 - INFO - App URL: http://127.0.0.1:58812
+2025-06-29 16:28:54,809 - INFO - Temp dir created for patched index and manifest: C:\Users\laura\AppData\Local\Temp\tmp34i8txju
+2025-06-29 16:28:54,809 - INFO - Web root: C:\Users\laura\PycharmProjects\Ambrozy\cars\venv\Lib\site-packages\flet_web\web
+2025-06-29 16:28:54,810 - INFO - assets_dir does not exist: C:\Users\laura\PycharmProjects\Ambrozy\cars\src\gui\assets
+2025-06-29 16:28:54,810 - INFO - Assets dir: None
+2025-06-29 16:29:00,090 - INFO - New FletApp: 7tzC6BUn
+2025-06-29 16:29:00,582 - INFO - New session created (1 total): _M3XB9TH5tyymNFLg_fe6185370372ac104cf66ba6ac2e4fdfa1fd6ed5
+2025-06-29 16:29:00,633 - INFO - Start session: M3XB9TH5tyymNFLg
+2025-06-29 16:29:22,656 - INFO - Input: year=2020, mileage=1000, power=300, fuel=Diesel, gearbox=Automatic, type=New
+2025-06-29 16:29:22,656 - INFO - Prediction result: 77265 EUR
+2025-06-29 16:29:28,198 - INFO - Session disconnected: _M3XB9TH5tyymNFLg_fe6185370372ac104cf66ba6ac2e4fdfa1fd6ed5
+2025-06-29 16:50:32,535 - INFO - Shutting down Flet App Manager
+2025-06-29 16:50:32,539 - INFO - Deleting temp dir: C:\Users\laura\AppData\Local\Temp\tmp34i8txju
+2025-06-29 16:50:32,567 - INFO - Flet app has started...
+2025-06-29 16:50:32,569 - INFO - Closing Flet web server...
